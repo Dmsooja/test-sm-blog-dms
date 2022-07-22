@@ -1,0 +1,82 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "faq_centered_accordion",
+    "items": [
+      {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Nisi irure duis amet anim.",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Adipisicing commodo sint voluptate cillum veniam duis Lorem ea aliquip mollit quis elit officia ut. Proident amet consectetur aute tempor deserunt amet. Nisi dolor proident voluptate.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Lorem eiusmod ex mollit consectetur amet id enim et reprehenderit eiusmod excepteur reprehenderit nostrud amet tempor.",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Pariatur culpa labore culpa culpa veniam occaecat labore laboris mollit nisi ipsum. Proident amet commodo adipisicing aliqua proident id et est.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Aute commodo incididunt irure veniam velit duis sunt. Magna et non consectetur elit id cillum cupidatat cillum proident. Irure eiusmod sint sit cupidatat.",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Amet magna deserunt do do ea minim labore dolor sunt qui ut. Dolore duis incididunt sit pariatur. Minim duis commodo labore veniam reprehenderit ad consequat eiusmod nulla et laborum Lorem fugiat sint nulla.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Ut enim tempor veniam labore est adipisicing sit commodo ex aute amet veniam velit ea. Dolor voluptate minim sunt irure anim est Lorem.",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Pariatur dolor elit et id. Dolore id occaecat et laboris consequat enim eiusmod sunt.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Generate dynamic solutions",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
